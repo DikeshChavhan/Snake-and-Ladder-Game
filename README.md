@@ -1,4 +1,4 @@
-🎲 Snake and Ladder Game
+**🎲 Snake and Ladder Game**
 
 A simple Snake and Ladder board game built using HTML, CSS, and JavaScript. This project simulates the classic board game where the player rolls a dice, moves across the board, climbs ladders 🪜, and avoids snakes 🐍.
 
@@ -26,7 +26,7 @@ A simple Snake and Ladder board game built using HTML, CSS, and JavaScript. This
 
 Clone this repository:
 
-git clone https://github.com/your-username/snake-and-ladder.git
+git clone https://github.com/DikeshChavhan/Snake-and-Ladder-Game/tree/main
 
 
 Open index.html in your browser.
