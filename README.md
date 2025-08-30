@@ -55,15 +55,6 @@ Reach Position 100 to win 🏆.
 
 ---
 
-🖼️ Screenshots
-
-(Add screenshots of your game here using:)
-
-![Game Screenshot](<img width="1920" height="1020" alt="Screenshot 2025-08-30 234017" src="https://github.com/user-attachments/assets/55cc04fe-a372-4196-8588-5f6ed5bc8574" />
-)
-
----
-
 🔮 Future Improvements
 
 Add multiplayer support 👥.
